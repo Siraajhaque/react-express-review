@@ -40,3 +40,7 @@ Express review with intro to axios
 
 * Refactor your DELETE request to remove from our array given an index
 * Use axios to add functionality to deleteTodo
+
+
+in package.json "start":
+    // makes it so when you don't have to take down the server and keep undating, will just update as you make changes.
